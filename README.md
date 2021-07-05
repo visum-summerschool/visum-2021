@@ -1,5 +1,5 @@
 # visum-2021
-![Alt text](VISUM2021_banner.png)
+![VISUM2021](VISUM2021_banner.png)
 
 Hello and welcome to the VISUM 2021 Repository.
 Here the materials for the VISUM 2021 summer school will be shared throughout the week.
@@ -9,7 +9,9 @@ Here the materials for the VISUM 2021 summer school will be shared throughout th
 ### Basics
 Computer Vision with Deep Learning by Luís Teixeira - [slides](https://drive.google.com/file/d/1FMBehM0hHxcDo7wi9tokGErN5hJlPc-p/view?usp=sharing)
 
-Machine Learning with Python and Sklearn by Wilson Silva and Tiago Gonçalves - [slides](basics/VISUM_basics_Machine_Learning_with_Python_and_Sklearn.pdf)
+Machine Learning with Python and Sklearn by Wilson Silva and Tiago Gonçalves - [slides](basics/VISUM_basics_Machine_Learning_with_Python_and_Sklearn.pdf), [Google Colaboratory Notebook](https://colab.research.google.com/drive/1ZXYpsBx6y74LULldLLgwcFNdHRkoixtf?usp=sharing)
+
+PyTorch and Tensorflow by Tiago Gonçalves - [Google Colaboratory Notebook](https://colab.research.google.com/drive/1rFqDKcUQaXBO_z6Xoht3taggcbLi47-n?usp=sharing)
 
 Introduction to Bayesian Networks by Diogo Pernes - [slides](https://github.com/visum-summerschool/visum-2021/blob/main/basics/VISUM_basics_Introduction_Bayesian_Networks.pdf)
 
