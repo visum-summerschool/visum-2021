@@ -11,6 +11,8 @@ Computer Vision with Deep Learning by Luís Teixeira - [slides](https://drive.go
 
 Machine Learning with Python and Sklearn by Wilson Silva and Tiago Gonçalves - [slides](basics/VISUM_basics_Machine_Learning_with_Python_and_Sklearn.pdf)
 
+Introduction to Bayesian Networks by Diogo Pernes - [slides](https://github.com/visum-summerschool/visum-2021/blob/main/basics/VISUM_basics_Introduction_Bayesian_Networks.pdf)
+
 ### Image Understanding with Hugo Proença
 * The dataset can be found [here](https://drive.google.com/file/d/1MDXSL97hyr6daBZUHdqJxGi8XL7S7StQ/view?usp=sharing).
 
