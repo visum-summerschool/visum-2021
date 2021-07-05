@@ -15,6 +15,9 @@ PyTorch and Tensorflow by Tiago Gonçalves - [Google Colaboratory Notebook](http
 
 Introduction to Bayesian Networks by Diogo Pernes - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/basics/VISUM_basics_Introduction_Bayesian_Networks.pdf)
 
+### AI-Shots
+The Learning Spectrum by Kelwin Fernandes - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/ai-shots/AS1_VISUM__Learning_Spectrum.pdf)
+
 ### Image Understanding with Hugo Proença
 * The dataset can be found [here](https://drive.google.com/file/d/1MDXSL97hyr6daBZUHdqJxGi8XL7S7StQ/view?usp=sharing).
 
