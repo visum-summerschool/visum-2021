@@ -18,8 +18,13 @@ Introduction to Bayesian Networks by Diogo Pernes - [Slides](https://github.com/
 ### AI-Shots
 The Learning Spectrum by Kelwin Fernandes - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/ai-shots/AS1_VISUM__Learning_Spectrum.pdf)
 
-### Image Understanding with Hugo Proença
+Embedding Domain Knowledge in DNN by Kelwin Fernandes - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/ai-shots/AS2_VISUM__Embedding_Domain_Knowledge.pdf)
+
+### Image Understanding by Hugo Proença
 * The dataset can be found [here](https://drive.google.com/file/d/1MDXSL97hyr6daBZUHdqJxGi8XL7S7StQ/view?usp=sharing).
+
+### Graph Neural Networks by Michael Bronstein
+Hands-on Session by Ana Rebelo, Eduardo Castro, and Diogo Pernes - [Jupyter Notebook](https://github.com/visum-summerschool/visum-2021/blob/main/graph-neural-networks/Hands_On_Session.ipynb)
 
 ## For Project Related please go to:
 https://github.com/visum-summerschool/visum-competition2021
