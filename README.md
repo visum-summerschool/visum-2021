@@ -20,6 +20,8 @@ The Learning Spectrum by Kelwin Fernandes - [Slides](https://github.com/visum-su
 
 Embedding Domain Knowledge in DNN by Kelwin Fernandes - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/ai-shots/AS2_VISUM__Embedding_Domain_Knowledge.pdf)
 
+Diving into an AI use case by Kelwin Fernandes, Ricardo Sousa, Pedro Ferreira, Carolina Afonso and Henning Müller - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/ai-shots/AS3_VISUM__Diving_Into_an_AI_Use_Case.pdf)
+
 ### Image Understanding by Hugo Proença
 * The dataset can be found [here](https://drive.google.com/file/d/1MDXSL97hyr6daBZUHdqJxGi8XL7S7StQ/view?usp=sharing).
 
