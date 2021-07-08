@@ -22,7 +22,7 @@ Embedding Domain Knowledge in DNN by Kelwin Fernandes - [Slides](https://github.
 
 Diving into an AI use case by Kelwin Fernandes, Ricardo Sousa, Pedro Ferreira, Carolina Afonso and Henning Müller - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/ai-shots/AS3_VISUM__Diving_Into_an_AI_Use_Case.pdf)
 
-### Image Retrieval by 
+### Image Retrieval by Henning Müller
 (Medical) Image Retrieval by Henning Müller - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/image-retrieval/presentationVisumSummerSchool2021_Henning.pdf)
 
 Hands-on Session by João R. Pinto, Leonardo Capozzi and Bruno Veloso - [Google Colaboratory Notebook](https://bit.ly/visum_image_retrieval_complete)
