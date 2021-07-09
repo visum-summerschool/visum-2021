@@ -35,6 +35,7 @@ Hands-on Session by Ana Rebelo, Eduardo Castro, and Diogo Pernes - [Jupyter Note
 
 ### Causality for Machine Learning by Jonas Peters
 Causality for Machine Learning by Jonas Peters - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/causality-ml/virtualJonasJames.pdf)
+Hands-on Session by Sorawit Saengkyongam - [GitHub Repository](https://github.com/CoCaLa/causality-tutorial-exercises)
 
 ## For Project Related please go to:
 https://github.com/visum-summerschool/visum-competition2021
