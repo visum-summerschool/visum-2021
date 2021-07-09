@@ -22,6 +22,8 @@ Embedding Domain Knowledge in DNN by Kelwin Fernandes - [Slides](https://github.
 
 Diving into an AI use case by Kelwin Fernandes, Ricardo Sousa, Pedro Ferreira, Carolina Afonso and Henning Müller - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/ai-shots/AS3_VISUM__Diving_Into_an_AI_Use_Case.pdf)
 
+Self-Supervised Learning by Kelwin Fernandes - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/ai-shots/AS4_VISUM__Self-supervised_Learning.pdf)
+
 ### Image Retrieval by Henning Müller
 (Medical) Image Retrieval by Henning Müller - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/image-retrieval/presentationVisumSummerSchool2021_Henning.pdf)
 
@@ -35,6 +37,7 @@ Hands-on Session by Ana Rebelo, Eduardo Castro, and Diogo Pernes - [Jupyter Note
 
 ### Causality for Machine Learning by Jonas Peters
 Causality for Machine Learning by Jonas Peters - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/causality-ml/virtualJonasJames.pdf)
+
 Hands-on Session by Sorawit Saengkyongam - [GitHub Repository](https://github.com/CoCaLa/causality-tutorial-exercises)
 
 ## For Project Related please go to:
