@@ -33,5 +33,8 @@ Hands-on Session by João R. Pinto, Leonardo Capozzi and Bruno Veloso - [Google 
 ### Graph Neural Networks by Michael Bronstein
 Hands-on Session by Ana Rebelo, Eduardo Castro, and Diogo Pernes - [Jupyter Notebook](https://github.com/visum-summerschool/visum-2021/blob/main/graph-neural-networks/Hands_On_Session.ipynb)
 
+### Causality for Machine Learning by Jonas Peters
+Causality for Machine Learning by Jonas Peters - [Slides](https://github.com/visum-summerschool/visum-2021/blob/main/causality-ml/virtualJonasJames.pdf)
+
 ## For Project Related please go to:
 https://github.com/visum-summerschool/visum-competition2021
