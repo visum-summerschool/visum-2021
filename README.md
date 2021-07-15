@@ -40,5 +40,8 @@ Causality for Machine Learning by Jonas Peters - [Slides](https://github.com/vis
 
 Hands-on Session by Sorawit Saengkyongam - [GitHub Repository](https://github.com/CoCaLa/causality-tutorial-exercises)
 
+### Deploying Machine Learning Models by Dattaraj Rao
+Deploying Machine Learning Models by Dattaraj Rao - [GitHub Repository](https://github.com/dattarajrao/ml_workshop)
+
 ## For Project Related please go to:
 https://github.com/visum-summerschool/visum-competition2021
